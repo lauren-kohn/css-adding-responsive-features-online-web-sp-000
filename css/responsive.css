@@ -13,7 +13,7 @@
 
 @media only screen and (max-width: 900px) {
   body {
-    text: 85%;
+    font-size: 85%;
   }
   
   #logo h1 {
