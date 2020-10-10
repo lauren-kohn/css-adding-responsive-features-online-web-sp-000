@@ -42,8 +42,8 @@
   }
   
   .col-3 p {
-    column-rule: 1px dotted #ccc;
-    column-gap: 1.5em;
+    -moz-column-count: 1;
+    -webkit-column-count: 1;
     column-count: 1;
   }
   
